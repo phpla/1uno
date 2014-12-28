@@ -1,3 +1,3 @@
 <?php
 	phpinfo();
-	exit();
+	exit(1);
