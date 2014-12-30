@@ -1,6 +1,8 @@
 <?php
 
- function () {
+namespace ptgn;
+
+function () {
 $template = <<<EOT
 <!DOCTYPE html>
 <html>
