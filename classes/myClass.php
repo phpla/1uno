@@ -11,5 +11,13 @@ class myClass {
 		$error = NULL;
 		$variable1 = $variable2 = NULL;
 	}
+	
+	public getVar1(){
+		return $variable1;  
+	}
+
+	public getVar2(){
+		return $variable2;  
+	}
 
  }	
